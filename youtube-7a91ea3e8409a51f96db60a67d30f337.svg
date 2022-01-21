@@ -1,0 +1,12 @@
+<svg width="32" height="23" viewBox="0 0 32 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>pink-youtube</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(34835 -2688)">
+<g id="pink-youtube">
+<use xlink:href="#path0_fill" transform="translate(-34835 2688)" fill="#009ee3"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 28.206 0.665991C 29.574 1.04401 30.654 2.12401 31.014 3.49198C 31.68 5.97599 31.68 11.16 31.68 11.16C 31.68 11.16 31.68 16.344 31.0321 18.828C 30.654 20.214 29.5921 21.294 28.224 21.654C 25.74 22.32 15.84 22.32 15.84 22.32C 15.84 22.32 5.94 22.32 3.47396 21.654C 2.10604 21.276 1.02604 20.196 0.666035 18.828C 0 16.344 0 11.16 0 11.16C 0 11.16 0 5.97599 0.64793 3.49198C 1.02604 2.10599 2.08793 1.02599 3.45604 0.665991C 5.94 0 15.84 0 15.84 0C 15.84 0 25.74 0 28.206 0.665991ZM 20.88 11.16L 12.6 15.876L 12.6 6.44401L 20.88 11.16Z"/>
+</defs>
+</svg>
